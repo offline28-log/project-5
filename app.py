@@ -1,5 +1,5 @@
-a = 7
-if a % 2 == 0:
+a = num
+if num % 2 == 0:
     print("even number")
 else:
      print("odd number")
